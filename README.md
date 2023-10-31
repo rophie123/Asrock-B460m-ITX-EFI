@@ -1,5 +1,5 @@
 # Asrock-B460m-ITX-AC-OC-EFI
-The EFI of OpenCore for Asrock B460M-ITX/AC with Intel I5 10400F CPU and AMD Radeon RX 580 8 GB.
+The EFI of OpenCore for Asrock B460M-ITX/AC with Intel I5 10400F CPU and AMD Radeon RX 580 8 GB (iGPU UHD 630).
 
 - [opencore-version](#opencore-version)
 - [OS Version Supported](#os-version-supported)
@@ -22,6 +22,7 @@ The EFI of OpenCore for Asrock B460M-ITX/AC with Intel I5 10400F CPU and AMD Rad
 | BIOS Version | 1.4.0 |
 | Memory | Juhor DDR4 3200 32G x 2 |
 | SSD | Samsung 980 1TB |
+| iGPU | Intel UHD 630 |
 | dGPU | AMD Radeon RX 580 8 GB |
 | WiFi/Bluetooth Module | Onboard WiFi, Bluetooth Module |
 
