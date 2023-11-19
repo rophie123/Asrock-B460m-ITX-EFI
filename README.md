@@ -10,7 +10,7 @@ The EFI of OpenCore for Asrock B460M-ITX/AC with Intel I5 10400F CPU and AMD Rad
 - 0.9.5
 
 ## OS Version Supported
-- [x] Sonoma `14.0`
+- [x] Sonoma `14.1.1`
 - [x] Ventura `13.6`
 - [x] Monterey `12.7`
 
